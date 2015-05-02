@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.http.client.HttpResponseException'>
+        <annotation name='java.lang.annotation.Deprecated' />
+    </item>
+</root>
